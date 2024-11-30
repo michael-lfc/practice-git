@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 add a newfeature
-=======
 command line note
->>>>>>> 135e35cb02034dbb92e709b3d1893ccbe15d99a1
